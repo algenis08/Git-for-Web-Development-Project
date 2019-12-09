@@ -97,3 +97,12 @@ Classes can be used as many times as needed within a document.
     36. What is the command we would use to push our repo up to github? 
     git push
     37. Walk me through Lambda's git flow. 
+    fork first
+    add TL as collaborator
+    clone repo
+    create a branch
+    add file  
+    push your branch
+    create a pull request 
+    use own fork
+    add TL as reviewer
